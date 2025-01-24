@@ -6,4 +6,6 @@ Hello! I am the organizer of the Digital efficiency organization, and we are com
 
 - dnc
 - det
-- ...
+- web-office
+- file-server
+- ......
